@@ -1,5 +1,7 @@
 # Building Blocks / Tridion specific ignores
 
+lib/
+
 html/dist
 html/node_modules
 
